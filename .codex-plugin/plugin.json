@@ -1,0 +1,24 @@
+{
+  "name": "creative-apple-motion",
+  "version": "0.1.0+codex.20261116053720",
+  "description": "Design and implement expressive native Apple apps with SwiftUI, UIKit, Metal 3D and Metal shaders for iOS, iPadOS and macOS.",
+  "author": {
+    "name": "Hieu Tran"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Creative Apple Motion",
+    "shortDescription": "SwiftUI, UIKit, Metal 3D & shaders",
+    "longDescription": "Design and implement expressive native Apple apps with SwiftUI, UIKit, Metal 3D and Metal shaders for iOS, iPadOS and macOS.",
+    "developerName": "Hieu Tran",
+    "category": "Development",
+    "capabilities": [],
+    "defaultPrompt": [
+      "Use $creative-apple-motion to design expressive motion for this Apple app.",
+      "Use $metal-3d-interaction to build an interactive Metal scene.",
+      "Use $metal-shader-effects to implement an accessible SwiftUI shader effect."
+    ],
+    "logo": "./assets/icon.svg",
+    "composerIcon": "./assets/icon.svg"
+  }
+}

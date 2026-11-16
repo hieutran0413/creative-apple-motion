@@ -1,0 +1,4 @@
+# Art direction for native Apple apps
+Start with the purpose, content hierarchy and existing product language. Choose editorial composition, a cinematic product object or playful direct manipulation only when it fits the task. Design opening, response and resolution around app states rather than a forced web scroll story.
+Use one signature scene with quiet supporting interactions. Frequent actions need immediate feedback; optional narrative moments may breathe. Do not impose arbitrary universal durations or springs. Define tokens for response, settling, reveal, travel and easing as needed.
+Treat typography, materials, lighting and motion as one composition. Adapt to window space, input and text size. Keep system gestures, readable content and clear controls. Reduced motion must communicate the same state through stable composition.
